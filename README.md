@@ -170,5 +170,6 @@ pie
 1. Localized US & Australia campaigns.
 2. Targeted promotions for top regions.
 
-## 📊 Dashboard Source: Power BI Report
+## 📊 Dashboard Source: [Power BI Report ](https://github.com/iirama/Equipment-Store-Advanced-Analysis/blob/main/EUQ%20DASHBOARD.pbix)
+
 
