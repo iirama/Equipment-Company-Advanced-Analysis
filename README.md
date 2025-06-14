@@ -102,6 +102,8 @@ All these steps in [EDA Equipment store Anlysis ](https://github.com/iirama/EDA-
 https://github.com/user-attachments/assets/87555385-92bc-4c89-b1b8-6c6313bfcad6
 
 ## 📊 Key Business Insights & Strategic Actions
+
+
 ### 🚴 Product Performance
 
 ````mermaid
@@ -111,7 +113,21 @@ pie
     "Accessories" : 2.4
     "Clothing" : 1.1
 ````
+##### 🚴 Bike Dominance: 96.5% of total revenue suggests:
 
+1. Opportunity to expand premium bike offerings.
+2. Risk of over-reliance on single category.
+
+#### 🧰 Accessory Potential: Just 2.4% share indicates:
+
+1. Need for bundling strategies.
+2. Potential to increase $38 AOV.
+
+#### 👕 Clothing Review: 1.1% contribution warrants:
+
+1. Inventory optimization.
+2. Potential category exit strategy.
+   
 #### Top Performers:
 
 1. Mountain-200 Black-48 ($1.96M).
@@ -120,8 +136,9 @@ pie
 #### Action Plan:
 
 1. Expand Mountain-200 inventory.
-2. Create accessory bundles to boost $38 AOV.
-3. Phase out underperforming SKUs.
+2. Develop bike+accessory bundles to boost cross-category sales.
+3. Conduct pricing experiments on accessories.
+4. Evaluate clothing line profitability.
 
 ### 💎 Customer Value
 
@@ -152,4 +169,6 @@ pie
 
 1. Localized US & Australia campaigns.
 2. Targeted promotions for top regions.
+
+## 📊 Dashboard Source: Power BI Report
 
