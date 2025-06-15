@@ -94,6 +94,10 @@ All these steps in [EDA Equipment Company Anlysis ](https://github.com/iirama/ED
 ### Phase 3: Power BI Integration
 • Interactive visualizations
 
+#### Screenshot of Fimga prototype dashboard background
+
+![image](https://github.com/user-attachments/assets/e5115dff-1325-437b-a482-433021a98e5a)
+
 #### Screenshot of PowerBI dashboard
 
 ![Image](https://github.com/user-attachments/assets/371e1553-553c-42f8-b8d5-fd5c35ec8493)
