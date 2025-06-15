@@ -24,7 +24,7 @@ flowchart LR
 
 • Foundational insights
 
-All these steps in [EDA Equipment store Anlysis ](https://github.com/iirama/EDA-Equipment-store)
+All these steps in [EDA Equipment Company Anlysis ](https://github.com/iirama/EDA-Equipment-store)
 
 ### Phase 2: Advanced Analytics
 #### performance Analysis
