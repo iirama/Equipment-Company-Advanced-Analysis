@@ -1,4 +1,4 @@
-# Equipment Store Analytics Suite 🚀
+# Equipment Company Analytics Suite 🚀
 
 ![Analytics Pipeline](https://img.shields.io/badge/Flow-EDA→Advanced→PowerBI-blueviolet)
 ![Data Scope](https://img.shields.io/badge/Years-2010%E2%80%932014-yellowgreen)
