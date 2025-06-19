@@ -6,13 +6,13 @@
 
 ```mermaid
 flowchart LR
-    A[🏗️ EDA Foundation] --> B[🔍 Advanced SQL]
+    A[🔍 EDA Foundation] --> B[🔬 Advanced SQL]
     B --> C[📊 Power BI]
     C --> D{{"Executive Dashboards"}}
-    style A fill:#f9f,stroke:#333,stroke-width:2px,fill-pattern:circles,color:black
-    style B fill:#bbf,stroke:#333,stroke-width:2px,fill-pattern:diagonals,color:black
-    style C fill:#9f9,stroke:#333,stroke-width:2px,fill-pattern:grid,color:black
-    style D fill:#fff,stroke:#333,stroke-width:2px,fill-pattern:dots,color:black
+    style A fill:#006400,stroke:#333,stroke-width:2px,color:white  
+    style B fill:#2E8B57,stroke:#333,stroke-width:2px,color:white  
+    style C fill:#3CB371,stroke:#333,stroke-width:2px,color:black 
+    style D fill:#90EE90,stroke:#333,stroke-width:2px,color:black  
 ```
 
 ## 📌 Project Evolution
