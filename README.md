@@ -84,7 +84,7 @@ All these steps in [EDA Equipment Company Anlysis ](https://github.com/iirama/ED
 #### Screenshot Of Customer Report
 ![Image](https://github.com/user-attachments/assets/7bba614d-5b0e-4fbd-b1ba-c9ab07986142)
 
-#### Screenshot Of Customer Report
+#### Screenshot Of Product Report
 ![Image](https://github.com/user-attachments/assets/63b40d4b-f8e7-4b2c-841f-00228d9347df)
 
 #### Screenshot Of order Report
