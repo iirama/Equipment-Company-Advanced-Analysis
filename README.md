@@ -2,7 +2,6 @@
 
 ![Analytics Pipeline](https://img.shields.io/badge/Flow-EDA→Advanced→PowerBI-blueviolet)
 ![Data Scope](https://img.shields.io/badge/Years-2010%E2%80%932014-yellowgreen)
-![License](https://img.shields.io/badge/License-Dual%20(MIT%20+%20SQL)-lightgrey)
 
 ```mermaid
 flowchart LR
